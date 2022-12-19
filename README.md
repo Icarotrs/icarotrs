@@ -1,6 +1,5 @@
-### Olá 👋
-
-- 🌱 Atualmente estudando Javascript
+- Graduando em Ciências da computação
+- Atualmente estudando Javascript
 <div align="center">
   <a href="https://github.com/Icarotrs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icarotrs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
