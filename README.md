@@ -1,6 +1,6 @@
 ## Oioi, Sou Ícaro, estudante de Ciências da computação e ilustrador digital
 <div align="center">
-  <a href="https://github.com/icarotrs"> ----------------------------------
+  <a href="https://github.com/icarotrs">
 </div>
 
 <div align="center">
@@ -23,5 +23,6 @@
   <div> 
   <a href = "mailto:icaro.trs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-%C3%ADcaro-torres-292237204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+</div>-----------------------------------------
+  
 
