@@ -1,6 +1,6 @@
 ## 👋 Oioi, Sou Ícaro, estudante de Ciências da computação e ilustrador digital.
 - 🎓 Estou atualmente estudando Javascritp.
-- 💼 Busco vagas para estagio remunerado ou aprendiz.
+- 💼 Busco vagas para primeira atuação no mercado.
 
 <div align="center">
   <a href="https://github.com/icarotrs">
