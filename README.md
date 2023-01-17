@@ -1,4 +1,7 @@
-## 👋Oioi, Sou Ícaro, estudante de Ciências da computação e ilustrador digital
+## 👋 Oioi, Sou Ícaro, estudante de Ciências da computação e ilustrador digital.
+## 🎓 Estou atualmente estudando Javascript.
+## 💼 Estou procurando vaga para estagio remunerado ou aprendiz.
+
 <div align="center">
   <a href="https://github.com/icarotrs">
 </div>
