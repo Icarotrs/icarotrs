@@ -1,4 +1,4 @@
-## Oioi, Sou Ícaro, estudante de Ciências da computação e ilustrador digital
+## 👋Oioi, Sou Ícaro, estudante de Ciências da computação e ilustrador digital
 <div align="center">
   <a href="https://github.com/icarotrs">
 </div>
