@@ -1,4 +1,4 @@
-## 👋 Oioi, Sou Ícaro, estudante de Ciências da computação e ilustrador digital.
+## 👋 Oioi sou estudante de Ciências da computação e ilustrador digital.
 - 🎓 Estou atualmente estudando Javascritp.
 - 💼 Busco vagas para primeira atuação no mercado.
 
