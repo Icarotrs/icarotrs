@@ -1,6 +1,6 @@
 ## 👋 Oioi sou estudante de Ciências da computação e ilustrador digital.
 - 🎓 Estou atualmente estudando Javascritp.
-- 💼 Busco vagas para primeira atuação no mercado.
+- 💼 Busco oportunidades para primeira atuação no desenvolvimento.
 
 <div align="center">
   <a href="https://github.com/icarotrs">
