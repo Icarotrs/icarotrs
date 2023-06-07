@@ -1,5 +1,5 @@
 ## 👋 Oioi sou estudante de Ciências da computação e ilustrador digital.
-- 🎓 Estou atualmente estudando Javascritp.
+- 🎓 Estou atualmente estudando Java.
 - 💼 Busco oportunidade para primeira atuação no desenvolvimento.
 
 <div align="center">
