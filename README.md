@@ -1,4 +1,4 @@
-## 👋 Oioi sou estudante de Ciências da computação e ilustrador digital.
+## 👋 Estudante de Ciências da computação.
 - 🎓 Estou atualmente estudando Java.
 - 💼 Busco oportunidade para primeira atuação no desenvolvimento.
 
