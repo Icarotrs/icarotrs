@@ -1,6 +1,6 @@
 ## 👋 Estudante de Ciências da computação.
-- 🎓 Estou atualmente estudando Java.
-- 💼 Busco oportunidade para primeira atuação no desenvolvimento.
+- 🎓 Desenvolvimento multiplataforma e Ciência de Dados
+- 💼 Estagiário
 
 <div align="center">
   <a href="https://github.com/icarotrs">
